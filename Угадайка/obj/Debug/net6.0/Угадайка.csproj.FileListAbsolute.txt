@@ -1,0 +1,15 @@
+C:\Users\lolke\source\repos\Угадайка\Угадайка\obj\Debug\net6.0\Угадайка.csproj.AssemblyReference.cache
+C:\Users\lolke\source\repos\Угадайка\Угадайка\obj\Debug\net6.0\Угадайка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lolke\source\repos\Угадайка\Угадайка\obj\Debug\net6.0\Угадайка.AssemblyInfoInputs.cache
+C:\Users\lolke\source\repos\Угадайка\Угадайка\obj\Debug\net6.0\Угадайка.AssemblyInfo.cs
+C:\Users\lolke\source\repos\Угадайка\Угадайка\obj\Debug\net6.0\Угадайка.csproj.CoreCompileInputs.cache
+C:\Users\lolke\source\repos\Угадайка\Угадайка\bin\Debug\net6.0\Угадайка.exe
+C:\Users\lolke\source\repos\Угадайка\Угадайка\bin\Debug\net6.0\Угадайка.deps.json
+C:\Users\lolke\source\repos\Угадайка\Угадайка\bin\Debug\net6.0\Угадайка.runtimeconfig.json
+C:\Users\lolke\source\repos\Угадайка\Угадайка\bin\Debug\net6.0\Угадайка.dll
+C:\Users\lolke\source\repos\Угадайка\Угадайка\bin\Debug\net6.0\Угадайка.pdb
+C:\Users\lolke\source\repos\Угадайка\Угадайка\obj\Debug\net6.0\Угадайка.dll
+C:\Users\lolke\source\repos\Угадайка\Угадайка\obj\Debug\net6.0\refint\Угадайка.dll
+C:\Users\lolke\source\repos\Угадайка\Угадайка\obj\Debug\net6.0\Угадайка.pdb
+C:\Users\lolke\source\repos\Угадайка\Угадайка\obj\Debug\net6.0\Угадайка.genruntimeconfig.cache
+C:\Users\lolke\source\repos\Угадайка\Угадайка\obj\Debug\net6.0\ref\Угадайка.dll
